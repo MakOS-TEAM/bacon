@@ -1,0 +1,3 @@
+add_lunch_combo aosp_bacon-user
+add_lunch_combo aosp_bacon-userdebug
+add_lunch_combo aosp_bacon-eng
